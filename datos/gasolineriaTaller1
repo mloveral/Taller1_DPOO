@@ -1,0 +1,13 @@
+tipo:CORRIENTE:2000:500.0
+tipo:DIESEL:5000:400.0
+tipo:EXTRA:6000:300.0
+tipo:RAYO McQUEEN:20000:600.0
+surtidor:Victoria:CORRIENTE:0.0:DIESEL:0.0:EXTRA:0.0:RAYO McQUEEN:0.0
+surtidor:Alejandra:CORRIENTE:0.0:DIESEL:0.0:EXTRA:0.0:RAYO McQUEEN:0.0
+surtidor:Alejandra:CORRIENTE:0.0:DIESEL:0.0:EXTRA:0.0:RAYO McQUEEN:0.0
+surtidor:Victoria:CORRIENTE:0.0:DIESEL:0.0:EXTRA:0.0:RAYO McQUEEN:0.0
+empleado:Victoria:0
+empleado:Alejandra:0
+empleado:Diego:0
+empleado:Juan:0
+empleado:Sebastian:0
